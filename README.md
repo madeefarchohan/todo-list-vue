@@ -1,4 +1,4 @@
-Build Setup
+#Build Setup
 # install dependencies
 npm install
 
